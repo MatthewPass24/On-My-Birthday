@@ -1,0 +1,8 @@
+body {
+    background-image: url('images/birthday.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: overlay;
+    background-color: #ffffffbd;
+}

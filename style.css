@@ -2,7 +2,7 @@ body {
     background-color: rgb(227, 227, 233);
 }
 .navbar {
-    background-color: rgb(83, 126, 161);
+    background-color: rgba(65, 118, 161, 0.651);
 }
 .container {
     margin-top: 4em;
@@ -36,3 +36,15 @@ hr {
 p.description{
     font-size: 1.2em;
 }
+.custombackground {
+    background-color: rgba(65, 118, 161, 0.425);
+    border: 2px solid #858585;
+}
+.navbar-brand{
+    font-size: 2.3em;
+    font-family: "Lemon", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+  

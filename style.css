@@ -1,8 +1,8 @@
 body {
-    background-color: rgb(227, 227, 233);
+    background-color: rgb(242, 249, 255);
 }
 .navbar {
-    background-color: rgba(65, 118, 161, 0.651);
+    background-color: rgba(73, 148, 209, 0.788);
 }
 .container {
     margin-top: 4em;
@@ -13,7 +13,7 @@ body {
     font-weight: 700;
 }
 hr {
-    border: solid rgb(17, 158, 168) 4px;
+    border: solid rgb(21, 150, 201) 4px;
     opacity: 80%;
     width: 400px;
     margin-left: auto;
@@ -36,9 +36,14 @@ hr {
 p.description{
     font-size: 1.2em;
 }
-.custombackground {
+.btn.a:active{
     background-color: rgba(65, 118, 161, 0.425);
-    border: 2px solid #858585;
+}
+.custombackground {
+    background-color: rgba(79, 156, 219, 0.788);
+}
+.custombackground:hover {
+    background-color: rgba(123, 191, 247, 0.788);
 }
 .navbar-brand{
     font-size: 2.3em;

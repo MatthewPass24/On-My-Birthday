@@ -4,7 +4,7 @@
         document.getElementById('changeDate').innerText= 'January 24, 2007'
     }
     function year1935(){
-        document.getElementById('diffImage').src = 'images/hockey.png'
+        document.getElementById('diffImage').src = 'images/beer.png'
         document.getElementById('change-paragraph').innerText='On this day, the first canned beer was sold'
         document.getElementById('changeDate').innerText= 'January 24, 1935'
     }
@@ -14,13 +14,13 @@
         document.getElementById('changeDate').innerText= 'January 24, 1970'
     }
     function year1989(){
-        document.getElementById('diffImage').src = 'images/beatle.png'
+        document.getElementById('diffImage').src = 'images/bundy.webp'
         document.getElementById('change-paragraph').innerText='This day marked the end of a disgusting figure. Ted Bundy was executed finally.'
         document.getElementById('changeDate').innerText= 'January 24, 1989'
     }
     function year1995(){
         document.getElementById('diffImage').src = 'images/world.png'
-        document.getElementById('change-paragraph').innerText='OJ Simpson Started'
+        document.getElementById('change-paragraph').innerText='The OJ Simpson Trial Began'
         document.getElementById('changeDate').innerText= 'January 24, 1995'
     }
     function year2013(){

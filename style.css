@@ -40,15 +40,7 @@ body {
 p.description{
     font-size: 1.2em;
 }
-.btn.a:active{
-    background-color: rgba(65, 118, 161, 0.425);
-}
-.custombackground {
-    background-color: rgba(79, 156, 219, 0.788);
-}
-.custombackground:hover {
-    background-color: rgba(123, 191, 247, 0.788);
-}
+
 .navbar-brand{
     font-size: 2.3em;
     font-family: "Lemon", serif;
@@ -56,4 +48,31 @@ p.description{
     font-style: normal;
 }
 
-  
+
+/* CSS */
+.css-button-3d--sky {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 10px;
+    border: none;
+    background: #3a86ff;
+    box-shadow: 0 5px #2b6cd4;
+  }
+  .css-button-3d--sky:hover {
+    box-shadow: 0 3px #2b6cd4;
+    border: solid 2px #2b6cd4;
+    color: #3a86ff;
+  }
+  .css-button-3d--sky:active {
+    box-shadow: 0 0 #2b6cd4;
+    border: solid 2px #2b6cd4;
+    top: 5px;
+  }

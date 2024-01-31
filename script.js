@@ -1,6 +1,6 @@
     function originalYear(){
         document.getElementById('diffImage').src = 'images/me.jpg'
-        document.getElementById('change-paragraph').innerText='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum dui faucibus in ornare quam viverra orci. Mauris pellentesque pulvinar pellentesque habitant morbi tristique.'
+        document.getElementById('change-paragraph').innerText="See that little fellow to the right? That"
         document.getElementById('changeDate').innerText= 'January 24, 2007'
     }
     function year1935(){
@@ -10,7 +10,7 @@
     }
     function year1970(){
         document.getElementById('diffImage').src = 'images/lillard.webp'
-        document.getElementById('change-paragraph').innerText="Zoinks! What a day! Actor Matthew Lillard was born on January 24, 1970. Lillard is best known for starring as Stu in Scream (1996), Shaggy in Scooby Doo (2000), and recently as William Afton in Five Nights at Freddy's (2023)."
+        document.getElementById('change-paragraph').innerText="Zoinks! What a day! Actor Matthew Lillard was born on January 24, 1970. Lillard is best known for starring as Stu in Scream (1996), Shaggy in Scooby Doo (2002), and recently as William Afton in Five Nights at Freddy's (2023)."
         document.getElementById('changeDate').innerText= 'January 24, 1970'
     }
     function year1989(){

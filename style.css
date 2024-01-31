@@ -10,7 +10,10 @@ body {
 .birthday{
     font-size: 3em;
     text-align: center;
-    font-weight: 700;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+      
 }
 .line {
     border: solid rgb(21, 150, 201) 4px;
@@ -22,6 +25,7 @@ body {
 }
 .pic{
     border-radius: 10px;
+    height: 300px;
 }
 .info{
     text-align: center;

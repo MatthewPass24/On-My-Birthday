@@ -29,32 +29,32 @@ h1{
     border: solid rgb(21, 150, 201) 4px;
     opacity: 80%;
     margin-top: 0;
-    width: 400px;
+    width: 200px;
     margin-left: auto;
     margin-right: auto;
 
 }
-.pic{
-    border-radius: 10px;
-    height: 250px;
-    box-shadow: 0 8px 8px rgba(0,0,0,.4);
-}
-
+.pic { 
+    width: 25em;
+    border-radius: 10%;
+    box-shadow: 0 8px 8px rgba(0,0,0,.5);
+  }
 .info{
     text-align: center;
     font-size: 1.3em;
 }
-.card-body {
-    background-color: transparent;
-    background-color:white;
-    border-radius: 10px;
-    box-shadow: 0 8px 8px rgba(0,0,0,.4);
-    padding: 2em;
-    height: 250px;
-
-}
+.birthday1 {
+    width: 25em;
+    justify-content: center;
+    background-color: #ffffff;
+    border-radius: 10%;
+    padding: 1em;
+    box-shadow: 0 8px 8px rgba(0,0,0,.5);
+  
+  }
 p.description{
     font-size: 1.2em;
+    align-items: baseline;
 }
 
 .navbar-brand{

@@ -1,6 +1,6 @@
     function originalYear(){
         document.getElementById('diffImage').src = 'images/me.jpg'
-        document.getElementById('change-paragraph').innerText="See that little fellow to the right? That"
+        document.getElementById('change-paragraph').innerText="See that little fellow to the right? That's me as a baby. I graced this world with my presence on January 24, 2007 at 11:23PM in Staten Island, NY and it's been a better place since."
         document.getElementById('changeDate').innerText= 'January 24, 2007'
     }
     function year1935(){
